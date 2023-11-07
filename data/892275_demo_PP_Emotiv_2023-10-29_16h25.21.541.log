@@ -1,0 +1,13 @@
+23.9859 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027973923CA0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027973923C40>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027973923790>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000027954E49880>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+23.9860 	EXP 	window1: mouseVisible = True
+23.9860 	EXP 	window1: backgroundImage = ''
+23.9860 	EXP 	window1: backgroundFit = 'none'
+23.9878 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+23.9879 	EXP 	window1: recordFrameIntervals = False
+24.0614 	EXP 	window1: recordFrameIntervals = True
+24.1381 	EXP 	Screen (0) actual frame rate measured at 143.67Hz
+24.1382 	EXP 	window1: recordFrameIntervals = False
+24.1382 	EXP 	window1: mouseVisible = True
+24.1498 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+26.5341 	EXP 	demo_PP_Emotiv: status = STARTED
+26.8074 	EXP 	window1: mouseVisible = True

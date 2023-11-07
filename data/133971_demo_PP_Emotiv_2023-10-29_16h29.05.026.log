@@ -1,0 +1,94 @@
+8.8277 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D566C26C70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D566C26C10>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D566C26A60>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D5705E9250>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.8278 	EXP 	window1: mouseVisible = True
+8.8278 	EXP 	window1: backgroundImage = ''
+8.8278 	EXP 	window1: backgroundFit = 'none'
+8.8293 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.8294 	EXP 	window1: recordFrameIntervals = False
+8.9033 	EXP 	window1: recordFrameIntervals = True
+8.9803 	EXP 	Screen (0) actual frame rate measured at 141.17Hz
+8.9804 	EXP 	window1: recordFrameIntervals = False
+8.9804 	EXP 	window1: mouseVisible = True
+8.9923 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+11.3732 	EXP 	demo_PP_Emotiv: status = STARTED
+12.2208 	EXP 	window1: mouseVisible = True
+12.2941 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Click space to continue', units='height', win=Window(...), wrapWidth=1)
+12.5709 	EXP 	Sound sound_1 set volume 1.000
+0.0286 	EXP 	text: autoDraw = True
+1.0209 	EXP 	Created sequence: random, trialTypes=1, nReps=30, seed=None
+1.0211 	EXP 	New trial (rep=0, index=0): None
+1.0223 	DATA 	Keypress: space
+1.0251 	EXP 	text: autoDraw = False
+2.8726 	EXP 	Sound sound_1 started
+2.9364 	EXP 	Sound sound_1 reached end of file
+2.9365 	EXP 	Sound sound_1 reached end of file
+3.8733 	EXP 	New trial (rep=1, index=0): None
+5.1286 	EXP 	Sound sound_1 started
+5.1870 	EXP 	Sound sound_1 reached end of file
+5.1871 	EXP 	Sound sound_1 reached end of file
+6.1295 	EXP 	New trial (rep=2, index=0): None
+7.5813 	EXP 	Sound sound_1 started
+7.6403 	EXP 	Sound sound_1 reached end of file
+7.6404 	EXP 	Sound sound_1 reached end of file
+8.5868 	EXP 	New trial (rep=3, index=0): None
+10.3776 	EXP 	Sound sound_1 started
+10.4351 	EXP 	Sound sound_1 reached end of file
+10.4352 	EXP 	Sound sound_1 reached end of file
+11.3787 	EXP 	New trial (rep=4, index=0): None
+12.4059 	EXP 	Sound sound_1 started
+12.4616 	EXP 	Sound sound_1 reached end of file
+12.4616 	EXP 	Sound sound_1 reached end of file
+13.4131 	EXP 	New trial (rep=5, index=0): None
+14.8515 	EXP 	Sound sound_1 started
+14.9149 	EXP 	Sound sound_1 reached end of file
+14.9149 	EXP 	Sound sound_1 reached end of file
+15.8564 	EXP 	New trial (rep=6, index=0): None
+16.8632 	EXP 	Sound sound_1 started
+16.9203 	EXP 	Sound sound_1 reached end of file
+16.9204 	EXP 	Sound sound_1 reached end of file
+17.8631 	EXP 	New trial (rep=7, index=0): None
+19.5846 	EXP 	Sound sound_1 started
+19.6403 	EXP 	Sound sound_1 reached end of file
+19.6403 	EXP 	Sound sound_1 reached end of file
+20.5856 	EXP 	New trial (rep=8, index=0): None
+22.5349 	EXP 	Sound sound_1 started
+22.5949 	EXP 	Sound sound_1 reached end of file
+22.5950 	EXP 	Sound sound_1 reached end of file
+22.6045 	EXP 	Sound sound_1 reached end of file
+22.6045 	EXP 	Sound sound_1 reached end of file
+23.5354 	EXP 	New trial (rep=9, index=0): None
+24.5697 	EXP 	Sound sound_1 started
+24.6322 	EXP 	Sound sound_1 reached end of file
+24.6323 	EXP 	Sound sound_1 reached end of file
+25.5706 	EXP 	New trial (rep=10, index=0): None
+27.1115 	EXP 	Sound sound_1 started
+27.1709 	EXP 	Sound sound_1 reached end of file
+27.1710 	EXP 	Sound sound_1 reached end of file
+27.1804 	EXP 	Sound sound_1 reached end of file
+27.1804 	EXP 	Sound sound_1 reached end of file
+28.1118 	EXP 	New trial (rep=11, index=0): None
+29.4917 	EXP 	Sound sound_1 started
+29.5498 	EXP 	Sound sound_1 reached end of file
+29.5498 	EXP 	Sound sound_1 reached end of file
+30.4921 	EXP 	New trial (rep=12, index=0): None
+31.9151 	EXP 	Sound sound_1 started
+31.9710 	EXP 	Sound sound_1 reached end of file
+31.9711 	EXP 	Sound sound_1 reached end of file
+32.9159 	EXP 	New trial (rep=13, index=0): None
+34.1379 	EXP 	Sound sound_1 started
+34.2003 	EXP 	Sound sound_1 reached end of file
+34.2004 	EXP 	Sound sound_1 reached end of file
+35.1391 	EXP 	New trial (rep=14, index=0): None
+36.6373 	EXP 	Sound sound_1 started
+36.6964 	EXP 	Sound sound_1 reached end of file
+36.6965 	EXP 	Sound sound_1 reached end of file
+36.7060 	EXP 	Sound sound_1 reached end of file
+36.7060 	EXP 	Sound sound_1 reached end of file
+37.6376 	EXP 	New trial (rep=15, index=0): None
+38.8726 	EXP 	Sound sound_1 started
+38.9365 	EXP 	Sound sound_1 reached end of file
+38.9365 	EXP 	Sound sound_1 reached end of file
+39.8735 	EXP 	New trial (rep=16, index=0): None
+40.2552 	DATA 	Keypress: escape
+40.3868 	EXP 	demo_PP_Emotiv: status = STOPPED
+40.3931 	EXP 	demo_PP_Emotiv: status = STOPPED
+40.4154 	EXP 	window1: mouseVisible = True
